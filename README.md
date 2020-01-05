@@ -1,6 +1,8 @@
-# AngularJest
+# AngularJest (Angular testing with Jest with snapshot)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.21.
+
+This project is skeleton setup with Angular and Jest instead of Jasmine
 
 ## Development server
 
@@ -18,9 +20,9 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+## Running unit tests coverage
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
 ## Further help
 
